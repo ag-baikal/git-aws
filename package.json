@@ -1,0 +1,7 @@
+{
+  "name": "git_aws", // The name of your project
+  "version": "0.1", // The version of your project
+  "description": "Tune git-aws-test pipeline", // The description of your project
+  "main": "index.js"
+  "license": "MIT" // The license of your project
+}
