@@ -4,4 +4,15 @@
   "description": "Tune git-aws-test pipeline", // The description of your project
   "main": "index.js"
   "license": "MIT" // The license of your project
+
+    "devDependencies": {
+    "mocha": "~3.1",
+    "native-hello-world": "^1.0.0",
+    "should": "~3.3",
+    "sinon": "~1.9"
+  },
+    "dependencies": {
+    "fill-keys": "^1.0.2",
+    "resolve": "~1.1.7"
+  }
 }
