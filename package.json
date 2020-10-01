@@ -3,7 +3,7 @@
   "version": "0.1",
   "description": "Tune git-aws-test pipeline",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
 
     "devDependencies": {
     "mocha": "~3.1",
